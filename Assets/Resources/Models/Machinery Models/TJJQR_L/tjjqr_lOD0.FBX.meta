@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: c31d39e423a5d47a5a6d89f492e11760
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Dummy001
+    100002: Dummy002
+    100004: Dummy003
+    100006: Dummy004
+    100008: Dummy005
+    100010: Dummy006
+    100012: Dummy007
+    100014: Dummy011
+    100016: Dummy012
+    100018: Dummy013
+    100020: Dummy014
+    100022: Dummy015
+    100024: Dummy016
+    100026: Dummy017
+    100028: Dummy018
+    100030: //RootNode
+    100032: tjjqr_LOD0_A01_1
+    100034: tjjqr_LOD0_A02_01
+    100036: tjjqr_LOD0_A02_2
+    100038: tjjqr_LOD0_A02_3
+    100040: tjjqr_LOD0_A03_008
+    100042: tjjqr_LOD0_A03_009
+    100044: tjjqr_LOD0_A03_010
+    100046: tjjqr_LOD0_A03_011
+    100048: tjjqr_LOD0_A03_012
+    100050: tjjqr_LOD0_A03_013
+    100052: tjjqr_LOD0_A03_014
+    100054: tjjqr_LOD0_A03_1
+    100056: tjjqr_LOD0_A03_2
+    100058: tjjqr_LOD0_A03_3
+    100060: tjjqr_LOD0_A03_4
+    100062: tjjqr_LOD0_A03_5
+    100064: tjjqr_LOD0_A03_6
+    100066: tjjqr_LOD0_A04
+    100068: tjjqr_LOD0_A05_1
+    100070: tjjqr_LOD0_A05_2
+    400000: Dummy001
+    400002: Dummy002
+    400004: Dummy003
+    400006: Dummy004
+    400008: Dummy005
+    400010: Dummy006
+    400012: Dummy007
+    400014: Dummy011
+    400016: Dummy012
+    400018: Dummy013
+    400020: Dummy014
+    400022: Dummy015
+    400024: Dummy016
+    400026: Dummy017
+    400028: Dummy018
+    400030: //RootNode
+    400032: tjjqr_LOD0_A01_1
+    400034: tjjqr_LOD0_A02_01
+    400036: tjjqr_LOD0_A02_2
+    400038: tjjqr_LOD0_A02_3
+    400040: tjjqr_LOD0_A03_008
+    400042: tjjqr_LOD0_A03_009
+    400044: tjjqr_LOD0_A03_010
+    400046: tjjqr_LOD0_A03_011
+    400048: tjjqr_LOD0_A03_012
+    400050: tjjqr_LOD0_A03_013
+    400052: tjjqr_LOD0_A03_014
+    400054: tjjqr_LOD0_A03_1
+    400056: tjjqr_LOD0_A03_2
+    400058: tjjqr_LOD0_A03_3
+    400060: tjjqr_LOD0_A03_4
+    400062: tjjqr_LOD0_A03_5
+    400064: tjjqr_LOD0_A03_6
+    400066: tjjqr_LOD0_A04
+    400068: tjjqr_LOD0_A05_1
+    400070: tjjqr_LOD0_A05_2
+    2100000: tjjqr_LOD0_A02
+    2100002: tjjqr_LOD0_A03
+    2100004: tjjqr_LOD0_A05
+    2100006: tjjqr_LOD0_A04
+    2100008: tjjqr_LOD0_A01
+    2300000: tjjqr_LOD0_A01_1
+    2300002: tjjqr_LOD0_A02_01
+    2300004: tjjqr_LOD0_A03_008
+    2300006: tjjqr_LOD0_A03_1
+    3300000: tjjqr_LOD0_A01_1
+    3300002: tjjqr_LOD0_A02_01
+    3300004: tjjqr_LOD0_A03_008
+    3300006: tjjqr_LOD0_A03_1
+    4300000: tjjqr_LOD0_A02_01
+    4300002: tjjqr_LOD0_A03_008
+    4300004: tjjqr_LOD0_A05_2
+    4300006: tjjqr_LOD0_A03_014
+    4300008: tjjqr_LOD0_A03_013
+    4300010: tjjqr_LOD0_A03_012
+    4300012: tjjqr_LOD0_A03_011
+    4300014: tjjqr_LOD0_A03_010
+    4300016: tjjqr_LOD0_A03_009
+    4300018: tjjqr_LOD0_A03_1
+    4300020: tjjqr_LOD0_A05_1
+    4300022: tjjqr_LOD0_A03_2
+    4300024: tjjqr_LOD0_A03_3
+    4300026: tjjqr_LOD0_A03_4
+    4300028: tjjqr_LOD0_A03_5
+    4300030: tjjqr_LOD0_A03_6
+    4300032: tjjqr_LOD0_A04
+    4300034: tjjqr_LOD0_A02_3
+    4300036: tjjqr_LOD0_A02_2
+    4300038: tjjqr_LOD0_A01_1
+    7400000: tujiao
+    9500000: //RootNode
+    13700000: tjjqr_LOD0_A02_2
+    13700002: tjjqr_LOD0_A02_3
+    13700004: tjjqr_LOD0_A03_009
+    13700006: tjjqr_LOD0_A03_010
+    13700008: tjjqr_LOD0_A03_011
+    13700010: tjjqr_LOD0_A03_012
+    13700012: tjjqr_LOD0_A03_013
+    13700014: tjjqr_LOD0_A03_014
+    13700016: tjjqr_LOD0_A03_2
+    13700018: tjjqr_LOD0_A03_3
+    13700020: tjjqr_LOD0_A03_4
+    13700022: tjjqr_LOD0_A03_5
+    13700024: tjjqr_LOD0_A03_6
+    13700026: tjjqr_LOD0_A04
+    13700028: tjjqr_LOD0_A05_1
+    13700030: tjjqr_LOD0_A05_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tjjqr_LOD0_A01
+    second: {fileID: 2100000, guid: fc3fe55ed48b74fd1aafeb2a61f84c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tjjqr_LOD0_A02
+    second: {fileID: 2100000, guid: 6b0e3e5f9eb65454da15239d4970fc40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tjjqr_LOD0_A03
+    second: {fileID: 2100000, guid: e9501d3ec26874c398c65c6841534bd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tjjqr_LOD0_A04
+    second: {fileID: 2100000, guid: 4beed6c63a2734237923536eac98fdb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tjjqr_LOD0_A05
+    second: {fileID: 2100000, guid: 812557dda92744937af9f6eea0d047e7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: tujiao
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

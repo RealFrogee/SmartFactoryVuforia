@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 8efadcf3653704799926aff30be01e3d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _LTNJJ_LOD1_A02_007
+    100002: Dummy009
+    100004: Dummy010
+    100006: Dummy011
+    100008: Dummy012
+    100010: Dummy013
+    100012: Dummy014
+    100014: Dummy015
+    100016: Dummy016
+    100018: LTNJJ_LOD0_A02_4
+    100020: //RootNode
+    100022: LTNJJ_LOD1_A01
+    100024: LTNJJ_LOD1_A02_006
+    100026: LTNJJ_LOD1_A02_1
+    100028: LTNJJ_LOD1_A02_2
+    100030: LTNJJ_LOD1_A02_3
+    100032: LTNJJ_LOD1_A02_5
+    100034: LTNJJ_LOD1_A02_LT
+    100036: "\u5BF9\u8C61001"
+    400000: _LTNJJ_LOD1_A02_007
+    400002: Dummy009
+    400004: Dummy010
+    400006: Dummy011
+    400008: Dummy012
+    400010: Dummy013
+    400012: Dummy014
+    400014: Dummy015
+    400016: Dummy016
+    400018: LTNJJ_LOD0_A02_4
+    400020: //RootNode
+    400022: LTNJJ_LOD1_A01
+    400024: LTNJJ_LOD1_A02_006
+    400026: LTNJJ_LOD1_A02_1
+    400028: LTNJJ_LOD1_A02_2
+    400030: LTNJJ_LOD1_A02_3
+    400032: LTNJJ_LOD1_A02_5
+    400034: LTNJJ_LOD1_A02_LT
+    400036: "\u5BF9\u8C61001"
+    2100000: blinn3SG
+    2100002: LTNJJ_LOD1_A02
+    2300000: LTNJJ_LOD1_A01
+    2300002: LTNJJ_LOD1_A02_1
+    2300004: "\u5BF9\u8C61001"
+    3300000: LTNJJ_LOD1_A01
+    3300002: LTNJJ_LOD1_A02_1
+    3300004: "\u5BF9\u8C61001"
+    4300000: LTNJJ_LOD1_A01
+    4300002: LTNJJ_LOD1_A02_1
+    4300004: "\u5BF9\u8C61001"
+    4300006: LTNJJ_LOD1_A02_2
+    4300008: LTNJJ_LOD1_A02_3
+    4300010: LTNJJ_LOD0_A02_4
+    4300012: LTNJJ_LOD1_A02_5
+    4300014: LTNJJ_LOD1_A02_006
+    4300016: _LTNJJ_LOD1_A02_007
+    4300018: LTNJJ_LOD1_A02_LT
+    7400000: ltnj
+    9500000: //RootNode
+    13700000: _LTNJJ_LOD1_A02_007
+    13700002: LTNJJ_LOD0_A02_4
+    13700004: LTNJJ_LOD1_A02_006
+    13700006: LTNJJ_LOD1_A02_2
+    13700008: LTNJJ_LOD1_A02_3
+    13700010: LTNJJ_LOD1_A02_5
+    13700012: LTNJJ_LOD1_A02_LT
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LTNJJ_LOD1_A02
+    second: {fileID: 2100000, guid: c914072a429ed4226bf9b5631934956b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn3SG
+    second: {fileID: 2100000, guid: bc5897ff3cf5b405e9eaf1640cd38e5c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ltnj
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

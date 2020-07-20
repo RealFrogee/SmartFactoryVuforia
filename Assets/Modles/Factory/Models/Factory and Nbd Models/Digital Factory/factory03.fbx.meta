@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: b69b4e2a4cf9c46a185b23e994eabbe8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: column
+    100002: Conduit
+    100004: entrance_foor1
+    100006: entrance_wall6
+    100008: //RootNode
+    100010: floor
+    100012: foor10_18
+    100014: foor1_9
+    100016: hgih_wall
+    100018: reef
+    100020: steel
+    100022: The_roof10_18
+    100024: The_roof1_9
+    100026: The_roof6
+    100028: wal
+    100030: wall
+    400000: column
+    400002: Conduit
+    400004: entrance_foor1
+    400006: entrance_wall6
+    400008: //RootNode
+    400010: floor
+    400012: foor10_18
+    400014: foor1_9
+    400016: hgih_wall
+    400018: reef
+    400020: steel
+    400022: The_roof10_18
+    400024: The_roof1_9
+    400026: The_roof6
+    400028: wal
+    400030: wall
+    2100000: foor1_10
+    2100002: foor10_19
+    2100004: entrance_foor
+    2100006: steel2
+    2100008: column1
+    2100010: steel1
+    2100012: The_roof4
+    2100014: The_roof10_19
+    2100016: The_roof1_10
+    2100018: wall7
+    2100020: wall6
+    2100022: entrance_wall5
+    2300000: column
+    2300002: Conduit
+    2300004: entrance_foor1
+    2300006: entrance_wall6
+    2300008: foor10_18
+    2300010: foor1_9
+    2300012: hgih_wall
+    2300014: steel
+    2300016: The_roof10_18
+    2300018: The_roof1_9
+    2300020: The_roof6
+    2300022: wal
+    3300000: column
+    3300002: Conduit
+    3300004: entrance_foor1
+    3300006: entrance_wall6
+    3300008: foor10_18
+    3300010: foor1_9
+    3300012: hgih_wall
+    3300014: steel
+    3300016: The_roof10_18
+    3300018: The_roof1_9
+    3300020: The_roof6
+    3300022: wal
+    4300000: foor1_9
+    4300002: foor10_18
+    4300004: entrance_foor1
+    4300006: Conduit
+    4300008: column
+    4300010: steel
+    4300012: The_roof6
+    4300014: The_roof10_18
+    4300016: The_roof1_9
+    4300018: wal
+    4300020: hgih_wall
+    4300022: entrance_wall6
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The_roof10_19
+    second: {fileID: 2100000, guid: 501da293752054e11b04e226f346461e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The_roof1_10
+    second: {fileID: 2100000, guid: a51b58954eec74e87b89ba84ac53bb3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The_roof4
+    second: {fileID: 2100000, guid: c61763354ac854552a16c9f05a766e9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: column1
+    second: {fileID: 2100000, guid: 8a6dcc34d62624cbea3815a5b7f51762, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: entrance_foor
+    second: {fileID: 2100000, guid: 22880f4705a874285a3b096e0ab2b1ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: entrance_wall5
+    second: {fileID: 2100000, guid: 07808e82472324cb89290192d15b7cb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foor10_19
+    second: {fileID: 2100000, guid: b6790dab5d6d540ea82b2ce50c98fc5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foor1_10
+    second: {fileID: 2100000, guid: 18b01b795f70041758362d9090fc5444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel1
+    second: {fileID: 2100000, guid: e0a03a6a9b4ab45d8adef7ff566f27fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel2
+    second: {fileID: 2100000, guid: 49a3563e86ab44e5e91914e6e9ac3ddb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall6
+    second: {fileID: 2100000, guid: f3586c6249b634955b3087e19576f503, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall7
+    second: {fileID: 2100000, guid: 6551f1f33879241318d10c59a8622080, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: entrance_entrance_foor_BaseColor
+    second: {fileID: 2800000, guid: 446f89e31155740fbacf7554c2eba802, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: entrance_entrance_foor_Normal
+    second: {fileID: 2800000, guid: d3224a58f7d6e40dfae1a5cc1bccbc42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: entrance_entrance_wall5_BaseColor
+    second: {fileID: 2800000, guid: af79d3e6ce77f443694d70b2669c9f33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: entrance_entrance_wall5_Normal
+    second: {fileID: 2800000, guid: 7b150d1bcaba64f7ba29567d15e86050, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_The_roof10_19_BaseColor
+    second: {fileID: 2800000, guid: 15110f79abb224afdb230174e2a8c0e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_The_roof10_19_Normal
+    second: {fileID: 2800000, guid: f20819b3eacb545a6bb6b497683d9d02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_The_roof1_10_BaseColor
+    second: {fileID: 2800000, guid: abaccac9297a043d283652dca62bb0b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_The_roof1_10_Normal
+    second: {fileID: 2800000, guid: b4c630200c52048a6a453374732bc171, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_The_roof4_BaseColor
+    second: {fileID: 2800000, guid: 7ce398ce71abb4fd0b1f3cac9f2bd11f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_The_roof4_Normal
+    second: {fileID: 2800000, guid: 877c9e6d1a40546cba5191318922c8ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_column1_BaseColor
+    second: {fileID: 2800000, guid: 02078d87f131a4ef8a76573a20ae7d66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_column1_Normal
+    second: {fileID: 2800000, guid: 80721f2cebfac40f5a34b4bfbdb45283, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_foor1-10_BaseColor
+    second: {fileID: 2800000, guid: a37538d0096b04adaa05f7c27171c8b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_foor1-10_Normal
+    second: {fileID: 2800000, guid: cd4324c2c96b7447a81f87e0818cc592, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_foor10-19_BaseColor
+    second: {fileID: 2800000, guid: 13a988cdda7b5476ea2939cc26e051c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_steel1_BaseColor
+    second: {fileID: 2800000, guid: b4cfc54e18a1f489cbe0ecef0f9623cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_steel2_BaseColor
+    second: {fileID: 2800000, guid: ed39c74a0bf1d4882b535a45791e076d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_steel2_Normal
+    second: {fileID: 2800000, guid: bfa85e6243e244bfea9c0df5260eaa09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_wall6_BaseColor
+    second: {fileID: 2800000, guid: 7a593d1bbc1e24a69b76ca44284faf63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_wall6_Normal
+    second: {fileID: 2800000, guid: 2502117c803424f2eb6bb3cc394a9b29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_wall7_BaseColor
+    second: {fileID: 2800000, guid: 23a547eb6ba6242cdbcdb8ccca1666ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: factory(1)_wall7_Normal
+    second: {fileID: 2800000, guid: f3f57413e70684a7f99da76fc6f70d55, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

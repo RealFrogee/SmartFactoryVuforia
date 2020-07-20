@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ShaPan" size="0.210000 0.210000" />
+    <ImageTarget name="DiPanHeZhuang" size="0.210000 0.210000" />
+    <ImageTarget name="TuJiaoJiQiRen" size="0.210000 0.210000" />
+    <ImageTarget name="ZhuanXianJiQiRen" size="0.210000 0.210000" />
+    <ImageTarget name="LunTaiNinJing" size="0.210000 0.210000" />
+    <ImageTarget name="ShuJuKanBan" size="0.210000 0.210000" />
+  </Tracking>
+</QCARConfig>

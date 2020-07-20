@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: f1a7d9be26dd94f0583b7253529e61f1
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: "??\xD7y\xD7?"
+    100002: Bone001
+    100004: Bone002
+    100006: Bone003
+    100008: Bone004
+    100010: Bone005
+    100012: Bone006
+    100014: Bone007
+    100016: Bone008
+    100018: Bone009
+    100020: Bone011
+    100022: Bone013
+    100024: Bone014
+    100026: Bone015
+    100028: Bone016
+    100030: Bone018
+    100032: Bone019
+    100034: Bone020
+    100036: Bone021
+    100038: Bone022
+    100040: Point001
+    100042: //RootNode
+    100044: ZXJQR_L_AO1_01
+    100046: ZXJQR_L_AO1_02
+    100048: ZXJQR_L_AO1_03
+    100050: ZXJQR_L_AO1_04
+    100052: ZXJQR_L_AO1_05
+    100054: ZXJQR_L_AO1_06
+    100056: ZXJQR_L_AO1_07
+    100058: ZXJQR_L_AO2_007
+    100060: ZXJQR_L_AO2_01
+    100062: ZXJQR_L_AO2_02
+    100064: ZXJQR_L_AO2_03
+    100066: ZXJQR_L_AO2_04
+    100068: ZXJQR_L_AO2_05
+    100070: ZXJQR_L_AO3_01
+    100072: ZXJQR_L_AO4_01
+    100074: ZXJQR_L_AO5_01
+    100076: ZXJQR_L_AO6_01
+    100078: ZXJQR_L_AO7_01
+    100080: ZXJQR_L_AO8_01
+    100082: "\xD7t\xD7\xFC"
+    400000: "??\xD7y\xD7?"
+    400002: Bone001
+    400004: Bone002
+    400006: Bone003
+    400008: Bone004
+    400010: Bone005
+    400012: Bone006
+    400014: Bone007
+    400016: Bone008
+    400018: Bone009
+    400020: Bone011
+    400022: Bone013
+    400024: Bone014
+    400026: Bone015
+    400028: Bone016
+    400030: Bone018
+    400032: Bone019
+    400034: Bone020
+    400036: Bone021
+    400038: Bone022
+    400040: Point001
+    400042: //RootNode
+    400044: ZXJQR_L_AO1_01
+    400046: ZXJQR_L_AO1_02
+    400048: ZXJQR_L_AO1_03
+    400050: ZXJQR_L_AO1_04
+    400052: ZXJQR_L_AO1_05
+    400054: ZXJQR_L_AO1_06
+    400056: ZXJQR_L_AO1_07
+    400058: ZXJQR_L_AO2_007
+    400060: ZXJQR_L_AO2_01
+    400062: ZXJQR_L_AO2_02
+    400064: ZXJQR_L_AO2_03
+    400066: ZXJQR_L_AO2_04
+    400068: ZXJQR_L_AO2_05
+    400070: ZXJQR_L_AO3_01
+    400072: ZXJQR_L_AO4_01
+    400074: ZXJQR_L_AO5_01
+    400076: ZXJQR_L_AO6_01
+    400078: ZXJQR_L_AO7_01
+    400080: ZXJQR_L_AO8_01
+    400082: "\xD7t\xD7\xFC"
+    2100000: ZXJQR_L05
+    2100002: ZXJQR_L02
+    2100004: ZXJQR_L03
+    2100006: ZXJQR_L01
+    2100008: ZXJQR_L04
+    2100010: ZXJQR_L06
+    2100012: ZXJQR_L07
+    2100014: ZXJQR_L08
+    2300000: ZXJQR_L_AO2_03
+    2300002: ZXJQR_L_AO2_04
+    2300004: ZXJQR_L_AO2_05
+    2300006: ZXJQR_L_AO3_01
+    2300008: ZXJQR_L_AO4_01
+    2300010: ZXJQR_L_AO5_01
+    2300012: ZXJQR_L_AO6_01
+    2300014: ZXJQR_L_AO7_01
+    2300016: ZXJQR_L_AO8_01
+    3300000: ZXJQR_L_AO2_03
+    3300002: ZXJQR_L_AO2_04
+    3300004: ZXJQR_L_AO2_05
+    3300006: ZXJQR_L_AO3_01
+    3300008: ZXJQR_L_AO4_01
+    3300010: ZXJQR_L_AO5_01
+    3300012: ZXJQR_L_AO6_01
+    3300014: ZXJQR_L_AO7_01
+    3300016: ZXJQR_L_AO8_01
+    4300000: ZXJQR_L_AO5_01
+    4300002: ZXJQR_L_AO3_01
+    4300004: ZXJQR_L_AO1_06
+    4300006: ZXJQR_L_AO1_01
+    4300008: ZXJQR_L_AO4_01
+    4300010: ZXJQR_L_AO1_02
+    4300012: ZXJQR_L_AO6_01
+    4300014: ZXJQR_L_AO1_03
+    4300016: ZXJQR_L_AO1_04
+    4300018: ZXJQR_L_AO1_05
+    4300020: ZXJQR_L_AO2_01
+    4300022: ZXJQR_L_AO1_07
+    4300024: ZXJQR_L_AO2_02
+    4300026: ZXJQR_L_AO7_01
+    4300028: ZXJQR_L_AO2_03
+    4300030: ZXJQR_L_AO2_04
+    4300032: ZXJQR_L_AO8_01
+    4300034: ZXJQR_L_AO2_05
+    4300036: ZXJQR_L_AO2_007
+    7400000: zhuanxian
+    9500000: //RootNode
+    13700000: ZXJQR_L_AO1_01
+    13700002: ZXJQR_L_AO1_02
+    13700004: ZXJQR_L_AO1_03
+    13700006: ZXJQR_L_AO1_04
+    13700008: ZXJQR_L_AO1_05
+    13700010: ZXJQR_L_AO1_06
+    13700012: ZXJQR_L_AO1_07
+    13700014: ZXJQR_L_AO2_007
+    13700016: ZXJQR_L_AO2_01
+    13700018: ZXJQR_L_AO2_02
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZXJQR_L01
+    second: {fileID: 2100000, guid: 1f50f8629423a4adea879e0b6ae10d37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZXJQR_L02
+    second: {fileID: 2100000, guid: ae538f60e6586454cb1d6c467706beef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZXJQR_L03
+    second: {fileID: 2100000, guid: bd742f2c8927f4e708105d084b0ecd13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZXJQR_L04
+    second: {fileID: 2100000, guid: ecb4bfc385305465397af1e23c2e2dd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZXJQR_L05
+    second: {fileID: 2100000, guid: 5a39217698ecb452493e8ed8571f173e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZXJQR_L06
+    second: {fileID: 2100000, guid: 7d5a52420108049d7ade5da8b0221277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZXJQR_L07
+    second: {fileID: 2100000, guid: b28b41c4ba6c64328b1d3ab64347ddb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZXJQR_L08
+    second: {fileID: 2100000, guid: 9ae81f6e120004be5bea6aacb9e03889, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: zhuanxian
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 398
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
